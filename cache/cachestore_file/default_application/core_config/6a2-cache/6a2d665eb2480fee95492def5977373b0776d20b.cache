@@ -1,0 +1,20 @@
+a:7:{s:15:"backgroundimage";s:0:"";s:10:"brandcolor";s:0:"";s:6:"preset";s:12:"default.scss";s:11:"presetfiles";s:0:"";s:4:"scss";s:1170:"/*logo*/
+.navbar.bg-white:before {background: #fff;content: '';height: 48px;width: 330px;position: absolute;left: -36px;top: 0;transform: skew(-20deg);z-index: -1;}
+@media only screen and(max-width: 767px){.navbar.bg-white:before{background:none;}
+}
+.navbar-brand+.navbar-nav{position: absolute;left: 310px;top: 3px;}
+.navbar-light .navbar-nav .nav-link,
+.navbar-light .navbar-nav .show>.nav-link,.navbar-light .navbar-nav .nav-link:hover{color:#fff!important;}
+/*top bar*/
+div[data-region="drawer-toggle"]{margin-left: -10px;margin-right: 0px!important;}
+.navbar.bg-white{background:#023a54!important;border-bottom: 2px solid #ef5d08;}
+.nav-item .icon,.userbutton{color:#c9dff5}
+.popover-region-header-actions .icon,.dropdown-menu .icon{color:#023a54}
+.btn.bg-gray{color: #004869;border: 0px;}
+/*side-bar*/
+#nav-drawer {background:#023a54!important;}
+#nav-drawer .list-group-item{background:none;color:#C9DFF5;border:none;}
+.list-group-item.active,.list-group-item:hover{background:#004869!important;}
+.list-group-item-action:hover, .list-group-item-action:focus {color:#C9DFF5;}
+/*footer*/
+#page-footer.bg-dark {background-color: #023a54!important;}";s:7:"scsspre";s:0:"";s:7:"version";s:10:"2019111800";}
